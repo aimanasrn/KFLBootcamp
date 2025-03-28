@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+// import React from 'react';
+import { useState } from 'react';
 import { navLinks } from '../constants'
 import { Menu, X } from 'lucide-react';
 
